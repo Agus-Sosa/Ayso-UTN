@@ -1,2 +1,2 @@
 # Arquitectura y sistemas operativos
-## Entregas de trabajos
+## Repositorio para entregas de trabajos
